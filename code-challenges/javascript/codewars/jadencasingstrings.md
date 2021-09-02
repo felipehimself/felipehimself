@@ -11,9 +11,10 @@ Jaden-Cased:     "How Can Mirrors Be Real If Our Eyes Aren't Real"
 
 ------------------------------------------------------------------------------------------------
 
-My solution:
+**My solution:**
 
-tring.prototype.toJadenCase = function () {
+``` 
+String.prototype.toJadenCase = function () {
   let words = this.toLowerCase().split(" ")
   let myReturn = []
 
@@ -24,3 +25,4 @@ tring.prototype.toJadenCase = function () {
   return myReturn.join(" ")
   
   };
+```
