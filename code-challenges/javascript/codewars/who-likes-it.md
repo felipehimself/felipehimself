@@ -1,3 +1,5 @@
+**Description:**
+
 Implement the function likes which takes an array containing the names of people that like an item. It must return the display text as shown in the examples:
 
 likes [] -- must be "no one likes this"
