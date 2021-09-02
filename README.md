@@ -1,4 +1,4 @@
-- 👋 Hi, I’m Felipe from Rio, Brazil
+- 👋 Hi, I’m Felype from Rio, Brazil
 - 👀 I’m interested in learning as possible as I can! 
 - 🌱 I’m currently taking a degree in system development and analysis and learning JavaScript, Node.js, MongoDB, and React 
 - 💞️ I’m looking to collaborate on everything as long as I have time :D
