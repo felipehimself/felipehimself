@@ -1,41 +1,70 @@
-## About me
+### About me
 
-- 👋 Hi, I’m Felipe, a Frontend developer from Rio de Janeiro, Brazil
-- 🌱 Along side many courses I take, I'm also taking a degree in system development and analysis;
+- 👋 Hi, I’m Felipe, I'm based in Rio de Janeiro, Brazil;
+- 👨‍💻 I'm a Frontend developer aspiring to be a Full Stack developer; 
 - 💞️ I’m willing to collaborate on everything, just wave your hand and I'll reach you;
 - 📫 How can we get in touch? Feel free to <a href="mailto:felipecoutodarocha@gmail.com">email me</a>.
 
 <hr/>
 
-<div> 
-  <img style='display: block' height='150em' src='https://github-readme-stats.vercel.app/api?username=felipehimself&show_icons=true&theme=dracula' />
-  <img style='display: block'  height='150em' src='https://github-readme-stats.vercel.app/api/top-langs/?username=felipehimself&layout=compact' />
-</div>
+### Portfolio
+
+<a href="https://devfelipe.vercel.app/" target="_blank">https://devfelipe.vercel.app/</a>
 
 <hr/>
 
-## Languages & Skills
+### Skills
 
-<section style='display: flex; gap: 5px'>
+#### Frontend
 
-  <img align="center" heigth="50" width="60" src='https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg'>
+<section>
 
   <img align="center" heigth="50" width="60" src='https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg'>
 
-  <img align="center" heigth="50" width="60" src='https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original-wordmark.svg'>
+  <img align="center" heigth="50" width="60" src='https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg'>
+  
+  <img align="center" heigth="50" width="60" src='https://i.ibb.co/rbzmRps/download.png'>
 
-  <img align="center" heigth="50" width="60" src='https://cdn.jsdelivr.net/gh/devicons/devicon/icons/redux/redux-original.svg'>
+  <img align="center" heigth="50" width="60" src='https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg'>
 
   <img align="center" heigth="50" width="60" src='https://cdn.jsdelivr.net/gh/devicons/devicon/icons/angularjs/angularjs-original.svg'>
 
-  <img align="center" heigth="50" width="60" src='https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-plain-wordmark.svg'>
+  <img align="center" heigth="50" width="60" src='https://cdn.jsdelivr.net/gh/devicons/devicon/icons/redux/redux-original.svg'>
+  
+  <img align="center" heigth="50" width="60" src='https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tailwindcss/tailwindcss-plain.svg'>
 
-  <img align="center" heigth="50" width="60" src='https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg'>
+  <img align="center" heigth="50" width="60" src='https://cdn.jsdelivr.net/gh/devicons/devicon/icons/materialui/materialui-plain.svg'>
 
-  <img align="center" heigth="50" width="60" src='https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg'>
-
-  <img align="center" heigth="50" width="60" src='https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg'>
 
 </section>
-<br>
-+ Styled Components and Sass
+
+#### Backend
+
+<section>
+
+  <img align="center" heigth="50" width="60" src='https://cdn.jsdelivr.net/gh/devicons/devicon/icons/go/go-original-wordmark.svg'>
+  <img align="center" heigth="50" width="60" src='https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-plain.svg'>
+
+</section>
+
+#### Database
+
+<section style='display: flex; gap: 5px'>
+
+  <img align="center" heigth="50" width="60" src='https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-plain-wordmark.svg'>
+
+  <img align="center" heigth="50" width="60" src='https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg'>
+
+
+</section>
+
+<hr/>
+
+### Stats
+
+<section> 
+  <img style='display: block' height='150em' src='https://github-readme-stats.vercel.app/api?username=felipehimself&show_icons=true&theme=dracula' />
+  <img style='display: block'  height='150em' src='https://github-readme-stats.vercel.app/api/top-langs/?username=felipehimself&layout=compact' />
+</section>
+
+
