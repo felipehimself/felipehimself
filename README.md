@@ -33,7 +33,7 @@ Database
 ### Stats
 
 <section> 
-  <img style='display: block' height='150em' src='https://github-readme-stats.vercel.app/api?username=felipehimself&show_icons=true&theme=dracula' />
+  <img style='display: block' height='150em' src='https://github-readme-stats.vercel.app/api?username=felipehimself&show_icons=true&theme=tokyonight' />
   <img style='display: block'  height='150em' src='https://github-readme-stats.vercel.app/api/top-langs/?username=felipehimself&layout=compact' />
 </section>
 
