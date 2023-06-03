@@ -1,7 +1,7 @@
 # Hi, I'm Felipe! 👋
 
 
-I'm a web developer base in Rio de Janeiro - Brazil.
+I'm a web developer based in Rio de Janeiro - Brazil.
 I'm willing to colaborate on anything that I can help, just get in touch.
 
 
