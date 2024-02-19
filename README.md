@@ -1,40 +1,36 @@
-# Hi, I'm Felipe! 👋
+# Hi there, I'm Felipe Couto! 👋
 
+I'm a passionate web developer based in Rio de Janeiro, Brazil, with a keen interest in building scalable and innovative web applications. I thrive on challenges and love collaborating on projects that push the boundaries of technology.
 
-I'm a web developer based in Rio de Janeiro - Brazil.
-I'm willing to colaborate on anything that I can help, just get in touch.
+## 🌐 Portfolio & Contact
 
+- **Portfolio:** [devfelipe.vercel.app](https://devfelipe.vercel.app/)
+- **LinkedIn:** [linkedin.com/in/felipecoutodarocha](https://www.linkedin.com/in/felipecoutodarocha/)
 
+## 💻 Skills
 
-## 🔗 Links
-[![portfolio](https://img.shields.io/badge/my_portfolio-000?style=for-the-badge&logo=ko-fi&logoColor=white)](https://devfelipe.vercel.app/) <br/>
-[![linkedin](https://img.shields.io/badge/linkedin-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/felipecoutodarocha/)
+### Frontend
 
+- Angular
+- Next.js
+- React
+- Microfrontend (design/pattern approach)
 
+### Backend
 
-## 🛠 Skills
+- Express
+- Nest.js
+- ASP.NET Core
 
-Frontend
+### Database
 
-* Angular
-* Next.JS
-* React
+- MongoDB
+- MySQL
 
-Backend
-
-* Express
-* Nest
-
-Database
-
-* MongoDB
-* MySQL
-
-### Stats
+## 📊 Stats
 
 <section> 
   <img style='display: block' height='150em' src='https://github-readme-stats.vercel.app/api?username=felipehimself&show_icons=true&theme=tokyonight' />
   <img style='display: block'  height='150em' src='https://github-readme-stats.vercel.app/api/top-langs/?username=felipehimself&layout=compact' />
 </section>
-
 
