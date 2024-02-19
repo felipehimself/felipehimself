@@ -14,7 +14,7 @@ I'm a passionate web developer based in Rio de Janeiro, Brazil, with a keen inte
 - Angular
 - Next.js
 - React
-- Microfrontend (design/pattern approach)
+- Microfrontend (design pattern approach)
 
 ### Backend
 
