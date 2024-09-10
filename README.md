@@ -21,7 +21,7 @@ I'm Felipe Couto a software developer. I'm interested in problem solving, movies
 ![](https://img.shields.io/badge/Database-MongoDB-informational?style=flat&logo=mongodb&logoColor=white&color=215732)
 
 
-### 🤝 How to reach me?
+### 🤝 How to reach me
 
 <a href="https://www.linkedin.com/in/felipecoutodarocha" target="_blank">
 <img src="https://camo.githubusercontent.com/e9592fd6ea20b888ed3c7621d8c7257835af4f2e7232e92f5db4e9e2e4e91380/68747470733a2f2f6564656e742e6769746875622e696f2f537570657254696e7949636f6e732f696d616765732f7376672f6c696e6b6564696e2e737667" width="30px" height="30px" />
