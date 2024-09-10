@@ -6,7 +6,7 @@ I'm Felipe Couto a software developer. I'm interested in problem solving, movies
 <br/>
 👨‍🎓 I'm currently learning Kubernetes
 <br/>
-🔥 Always enthusiastic to new features ans usefull tools on the IT comunity
+🔥 Always enthusiastic to new features and useful tools on the IT comunity
 
 
 ### 💼 Tech Skills
