@@ -32,7 +32,7 @@ I'm Felipe Couto a software developer. I'm interested in problem solving, movies
 </a>
 
 ### 🌐 Portfolio
- [devfelipe.vercel.app](https://devfelipe.vercel.app/)
+ [fcouto.dev](https://fcouto.dev)
 
 ### 📊 Stats
 
