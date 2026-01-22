@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-I'm Felipe Couto a software developer. I'm interested in problem solving, movies, sports and most importantly code a lot! :)
+I'm Felype Couto (yeah with Y, my dad did this to me, it's not usual in Brazil 😓 but what can I do) I'm a software developer. I'm interested in problem solving, movies, sports, dogs, and most importantly code a lot! :)
 
 🧰 Besides my day to day tasks at my job I'm currently working on personal projects
 <br/>
